@@ -12,7 +12,7 @@ Software Engineer with 5+ years of experience designing, developing, and deployi
 **Databases:** Postgres, MySQL, Microsoft SQL, MongoDB, DynamoDB<br>
 **Frontend:** jQuery, NextJS, React, Redux, Vite<br>
 **Infrastructure:** AWS, Docker, Microservices, Kubernetes, Terraform, CI/CD, Infrastructure as Code, Jenkins<br>
-**Monitoring:** Grafana, Prometheus, Datadog, New Relic, AWS CloudWatch, AWS Cost Automation Scripts, Resource Scheduling, CUR Analysis<br>
+**Monitoring:** Grafana, Prometheus, Datadog, New Relic, AWS CloudWatch, AWS Cost Automation Scripts, Resource Scheduling<br>
 **Tools:** Linux, Git, GitLab, Nginx, Redis, Celery, RabbitMQ, Apache Kafka<br>
 **CMS:** Odoo, Wagtail, Wordpress<br>
 
