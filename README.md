@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 Software Engineer with 5+ years of experience designing, developing, and deploying scalable, high‐performance backend systems using Python stack (Django, Flask, FastAPI). Strong background in microservice architectures, cloud‐native development on AWS, and database‐driven systems using both SQL and NoSQL technologies. Experienced in writing automated unit and integration tests as part of the development lifecycle, managing deployments from staging to production, and debugging distributed systems in live environments. Proven ability to work with client-facing projects, translating business requirements into structured technical tasks, and collaborating effectively across engineering teams in agile environments. Passionate about building reliable, maintainable systems and continuously improving development and DevOps practices.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moinmalik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moinabbasuk@gmail.com) 
 
 ## 🧠 Skills
